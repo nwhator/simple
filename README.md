@@ -1,5 +1,5 @@
 # simple_shell
-A simple Unix shell implementation in C, created by Candice de Briun and Promise Nwhator.
+A simple Unix shell implementation in C, created by Candice de Bruin and Promise Nwhator.
 👋 Hey there! Welcome to the Simple Shell project! 🐚
 
 This project is a fun and challenging task that will put your programming skills to the test. The Simple Shell is a basic command-line interface that allows users to enter commands and interact with their computer in a more hands-on way.
